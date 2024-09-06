@@ -1,0 +1,26 @@
+p{
+    background-color: red;
+    color: yellow;
+    font-family: 'Courier New', Courier, monospace;
+}
+iframe{
+    height:500px ;
+    width: 1000px;
+    border:2px solid rgb(83, 83, 255);
+    transition: 1s linear;
+    border: 5px dashed red ;
+    height:700px ;
+    width: 1200px;
+}
+img{
+    height: 500px;
+    width: 900px;
+}
+img:hover{
+    transition:1s linear;
+    width:1200px ;
+    height: 800px;
+}
+body{
+    background-color: rgb(161, 137, 107);
+}
