@@ -1,6 +1,7 @@
 a{
     text-decoration: none;
-    color: white;
+    font-size:5px ;
+    text-align: center;
 }
 h1{
     text-align: center;
@@ -21,6 +22,7 @@ iframe{
     border: 5px dashed red ;
     height:700px ;
     width: 1200px;
+    margin: right 500px;
 }
 iframe:hover{
     transition: 1s linear;
@@ -31,7 +33,7 @@ iframe:hover{
 img{
     height: 500px;
     width: 900px;
-    margin: left 500px;
+    margin: right 500px;
     border:2px solid rgb(83, 83, 255);
 }
 img:hover{
