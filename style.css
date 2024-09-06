@@ -12,15 +12,24 @@ iframe{
     height:700px ;
     width: 1200px;
 }
+iframe:hover{
+    transition: 1s linear;
+    border: 5px dashed red ;
+    height:700px ;
+    width: 1200px;
+}
 img{
     height: 500px;
     width: 900px;
+    text-align: center;
+    border:2px solid rgb(83, 83, 255);
 }
 img:hover{
     transition:1s linear;
     width:1200px ;
     height: 800px;
+    border:5px solid rgb(83, 83, 255);
 }
 body{
-    background-color: rgb(161, 137, 107);
+    background-color: rgb(255, 242, 226);
 }
